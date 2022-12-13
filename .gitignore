@@ -1,4 +1,6 @@
 bazel-TypescriptWithBazel
+bazel-bin
+bazel-testlogs
 
 # Logs
 logs
